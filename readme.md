@@ -1,4 +1,4 @@
-# Desenvolvimento de um Jogo de Quebra-Cabeça em Realidade Aumentada
+# Desenvolvimento de um Jogo de Quebra-Cabeça em Realidade Aumentada: Integração de Tecnologia e Experiência Lúdica
 
 ## Descrição do Projeto
 
@@ -42,5 +42,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 Para mais informações, entre em contato:
 
 - **Nome**: [Lucas Fernando Gonçalves Lima e Pablo Miranda da Rocha]
-- **Email**: [lucas.lima@estudante.ifb.edu.br]
+- **Email**: [lucas.lima@estudante.ifb.edu.br] e [pablo.costa@estudante.ifb.edu.br]
 - **GitHub**: [Dhisting1](https://github.com/Dhisting1) e [PablomrCosta](https://github.com/PablomrCosta)
